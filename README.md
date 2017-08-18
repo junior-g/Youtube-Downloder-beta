@@ -17,5 +17,6 @@ Friday August, 18.
 **********************************************************
 
 fb:- https://www.facebook.com/abis.baba.77
-linkdin :- https://www.linkedin.com/in/abhishek-singh-272567126/
+
+linkedin :- https://www.linkedin.com/in/abhishek-singh-272567126/
 
